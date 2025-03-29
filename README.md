@@ -14,7 +14,7 @@ I’m a *Full Stack Developer* with a passion for building scalable, efficient, 
 
 ## 📫 Let’s Connect
 - Email: [amanvivekanand@gmail.com](mailto:amanvivekanand@gmail.com)
-- LinkedIn: [linkedin.com/in/aman-vivekanand](https://linkedin.com/in/aman-vivekanand) *(Update with your actual LinkedIn URL if available)*
+- LinkedIn: [linkedin.com/in/aman-vivekanand](https://www.linkedin.com/in/aman-v-699464275/)
 - GitHub: [github.com/amanvivekanand006](https://github.com/amanvivekanand006)
 
 ## 🛠 Tech Stack
